@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور روحي في العيون لهيب
+> أشواقنا نار وأنت الحبيب
+> يا ليل طال والجسد أسير
+> في كل نبض شوقي لك كبير
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
