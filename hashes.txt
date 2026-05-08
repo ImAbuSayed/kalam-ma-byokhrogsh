@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kalam Ma Byokhrogsh
+
+This log tracks the cryptographic history and versioning for the song **Kalam Ma Byokhrogsh** (kalam-ma-byokhrogsh).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T22:37:16.800956 | `v1` | `e01d316b1fbd8c1d4050ffd8c0f63a35dc4442f8c9dc955cba791d96d5b6179a` | `faa769b8264478a487e26ef99ff9072533f9dc2af5489d5840674661eb27787a` | `2026-05-08_kalam-ma-byokhrogsh-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
